@@ -13,25 +13,25 @@
     <contributor type="olac:role" code="sponsor">Sponsor</contributor>
     <modified type="dcterms:W3CDTF">Date Modified</modified>
     <format type="dcterms:IMT">text/xml</format>
-    <language type="olac:language" code="abc" lang="abc">Source</language>
+    <language type="olac:language" code="wbv" lang="wbv">Wajarri</language>
     <language type="olac:language" code="eng" lang="eng">English</language>
-    <subject type="olac:language" code="abc" lang="abc">Source</subject>
+    <subject type="olac:language" code="wbv" lang="wbv">Wajarri</subject>
     <subject type="olac:language" code="eng" lang="eng">English</subject>
   </metadata>
   <entry id="0">
     <form>
-      <orth/>
+      <orth>Wajarri</orth>
     </form>
     <sense>
       <cit type="translation" lang="en">
-        <usg type="hyper"/>
-        <quote/>
+        <usg type="hyper">Wajarri</usg>
+        <quote>Wajarri</quote>
       </cit>
     </sense>
     <gramGrp>
-      <pos/>
+      <pos> Nominal </pos>
     </gramGrp>
-    <note/>
+    <note>Name of the language spoken by the people from the Murchison region; name of the country and people traditionally from the Murchison region of Western Australia</note>
     <media mimeType="" url=""/>
     <ref/>
     <!-- This is where you add annotation layers. -->

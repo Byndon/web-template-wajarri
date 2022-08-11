@@ -11,7 +11,7 @@ if(isset($_POST['email'])) {
  
     // Your email goes here.
  
-    $email_to = "enter email here";
+    $email_to = "language@irrawangga.org.au";
       
  
     function died($error) {
@@ -86,7 +86,7 @@ if(isset($_POST['email'])) {
   }
     
     // Email Body Message
-    $email_message = "A new message has been sent from the Language Tools website...\n\n";
+    $email_message = "A new message has been sent from the Wajarri Online Dictionary Website...\n\n";
  
      
  
@@ -107,7 +107,7 @@ if(isset($_POST['email'])) {
     $email_message .= "Message:\n".clean_string($message)."\n\n";
  
     // Email Subject Header 
-    $email_subject = "Language Tools: New Message";
+    $email_subject = "Wajarri Online Dictionary: New Message";
 
      
  

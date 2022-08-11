@@ -70,7 +70,7 @@ $count = $entries->length;
 
             <!-- Title of the page. -->
 
-            <h4 class="title"><a class="home" href="../dictionary/">Online Talking Dictionary Template</a></h4>
+            <h4 class="title"><a class="home" href="../dictionary/">Wajarri Talking Dictionary</a></h4>
 
             <hr>
 
@@ -143,7 +143,7 @@ $count = $entries->length;
                         <!-- Language options. -->
                         <select name="lang">
                             <option value="english">English</option>
-                            <option value="source">Source</option>
+                            <option value="source">Wajarri</option>
                         </select>
 
                 </div>
@@ -188,7 +188,7 @@ $count = $entries->length;
             <h4 class="subheader">About the Dictionary</h4>
             
             
-            <!-- There are <?php echo $count ?> entries in the dictionary. -->
+            <p>There are <?php echo $count ?> entries in the dictionary.</p>
             
             <!-- Paragraph #1 -->
             <p>Lorem ipsum dolor sit amet, eu mollis vel. Non feugiat eu magna nulla sapien, per justo tellus vel dui. Amet phasellus suspendisse orci cras habitasse, in ut mauris diam, egestas cras interdum, egestas aliquet felis in varius justo lectus, erat amet adipiscing. Convallis sagittis mollis, rhoncus metus vitae proin erat libero maecenas, viverra dapibus vitae, amet sapien velit habitant, nostra suspendisse. Egestas sodales nascetur molestie interdum ipsum, lacus sed, leo neque vitae massa urna pellentesque turpis. Dui cras, a posuere at nec.</p>
